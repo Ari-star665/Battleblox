@@ -1,2 +1,2 @@
 # Battleblox
-BattleBlox — Build, Battle, and Customize!  An interactive React-based gaming website featuring:  Avatar selection and custom avatar upload  Avatar accessories shop with hats and glasses  Persistent profile with saved avatars and accessories 
+🕹 BattleBlox is your ultimate gaming hub! Customize your avatar with cool uploads, hats, and glasses. Explore the accessories shop, build your profile, and show off your style. Made with React, BattleBlox is fast, fun, and ready for the future of web gaming. Let the battles begin! 🔥🎮
